@@ -2,7 +2,7 @@
 Script to update value of a field on Typeform using AWS Lambda.
 
 # What does it do?
-You want to use Typeform so can people can book meetings with you, or reserve a day at your venue?
+You want to use Typeform so the people can book meetings with you, or reserve a day at your venue?
 It's totally doable!
 With this function we will update a dropdown field to always offer the possibility to select the 7 coming days.
 You can customize how many days in the future you want to list, and if weekends should be listed too.
